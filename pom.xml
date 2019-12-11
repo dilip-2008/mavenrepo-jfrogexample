@@ -100,6 +100,7 @@
 	      <name>testserver-releases</name>
 	      <url>http://3.80.217.39:8081/artifactory/mavenrepo</url>
 	    </repository>
+		
 	   <snapshotRepository>
              <id>snapshots</id>
              <name>testserver-snapshots</name>
