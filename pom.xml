@@ -101,12 +101,6 @@
 	      <url>http://3.80.217.39:8081/artifactory/mavenrepo</url>
 	    </repository>
 	    
-	    <snapshotRepository>
-	      <id>central</id>
-	      <name>testserver-snapshots</name>
-              <url>http://3.80.217.39:8081/artifactory/mavenrepo-snap</url>
-	    </snapshotRepository>
-	    
 	</distributionManagement>
 	
 	<build>
